@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://dropitto.me/MrWachs
+[DOC_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter.php?version=42
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=fdbb77318e1e7e&origin=https%3A%2F%2Fdropitto.me
+[DOC#68]
+BASEURL=https://www.facebook.com/v2.4/plugins/like.php?action=recommend&app_id=231771440217816&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cebe4eed89e7c%26domain%3Ddropitto.me%26origin%3Dhttps%253A%252F%252Fdropitto.me%252Ffdbb77318e1e7e%26relation%3Dparent.parent&container_width=150&href=http%3A%2F%2Fdropitto.me%2F&layout=button_count&locale=en_US&sdk=joey&share=false&show_faces=false
+ORIGURL=https://www.facebook.com/v2.4/plugins/like.php?action=recommend&app_id=231771440217816&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cebe4eed89e7c%26domain%3Ddropitto.me%26origin%3Dhttps%253A%252F%252Fdropitto.me%252Ffdbb77318e1e7e%26relation%3Dparent.parent&container_width=150&href=http%3A%2F%2Fdropitto.me%2F&layout=button_count&locale=en_US&sdk=joey&share=false&show_faces=false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://dropitto.me/MrWachs
+IDList=
+IconFile=https://dropitto.me/favicon.ico
+IconIndex=1
