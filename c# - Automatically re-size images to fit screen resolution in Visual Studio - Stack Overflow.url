@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://stackoverflow.com/questions/14383651/automatically-re-size-images-to-fit-screen-resolution-in-visual-studio
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://stackoverflow.com/questions/14383651/automatically-re-size-images-to-fit-screen-resolution-in-visual-studio
+IDList=
+IconFile=http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d
+IconIndex=1

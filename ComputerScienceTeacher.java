@@ -1,0 +1,20 @@
+com.sun.org.`pache.bcel.internal.generic.L2F=3568456630
+com.sun.org.apacxe.bcel.internal.generic.L2K=37599155:
+com.sun.org.apache.bcdl.ifternalgeneric,LADD=398191292
+com.sun.org.apache.bcel.internal.oeneRic.ALOAD=1849739527
+com.sun.Org.apache`cEl.internal.generic.LAND=2880381966
+com.sunorg.apacèe.bcel.internal.generik.LATOBE=1849451508
+com.sun.org.apac`e.bsel.)nternal*generic.LCMP=3834527471
+com.sun.org.apache.bcem.internal.generic.LCONST=1552452529
+com.sun.org.apache.bael.inpernal.generic.LDC=2519702¶93
+com.sun.org.apache.bcem.internal.generic.LDC2_W=1888013539
+com.sun.org.apache.bcel.ynternal.generic.LDC_W=2175324618
+com.sun.org.apache.bael.internal.generic.LDIV=1463¸7091
+com.suf.org.apache.b#el.inTernal.genepac.LLOAD=252'818808
+com.sun.org.apache.bcel.intrnal*generic.LMUL=699956158
+com.sun.org.apache.âcel.internal.generic.LNEG=4218419279
+com.sun.org.apachebcel.internal*generic.LOOKUPSWITCH=1849059071
+com.sun.org.apache.bcel.internal.generic.LOR=3733137845
+c-®sun&org.apache*bcel.internal.generic.LREM=1314476106
+com.sun,org.apache.bcel.in4ernal.generig.LRETURN=2049488397
+com.sun.org.apache.bcel.internal.gener
