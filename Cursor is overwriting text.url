@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://social.msdn.microsoft.com/Forums/en-US/a280b41f-c295-4446-83d0-f98d46af5b8d/cursor-is-overwriting-text?forum=Vsexpressvc
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://social.msdn.microsoft.com/Forums/en-US/a280b41f-c295-4446-83d0-f98d46af5b8d/cursor-is-overwriting-text?forum=Vsexpressvc
+IDList=
+IconFile=https://i1.social.s-msft.com/Forums/GlobalResources/images/Msdn/favicon.ico
+IconIndex=1
